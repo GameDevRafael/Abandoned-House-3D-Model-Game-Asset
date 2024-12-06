@@ -1,0 +1,9 @@
+# Asset License
+
+© 2024 [Rafael Faustino]
+
+This 3D asset is provided for portfolio and professional demonstration purposes only.
+
+- Viewing and reviewing are permitted
+- No commercial or derivative use is allowed without explicit permission
+- Contact: [rgtdfaustino@gmail.com]
