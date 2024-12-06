@@ -6,11 +6,11 @@ This project showcases a game-ready 3D model of an **abandoned wooden house**, d
 
 ## Key Technical Achievements
 
-- Developed a detailed 3D house model with 10,547 vertices, balancing performance and detail.
+- Developed a detailed 3D house model with 10,547 vertices, mixing performance and detail.
 - Applied advanced Blender techniques, including:
-    - Procedural and manual modeling
-    - Complex modifiers (Displacement, Boolean, Array)
-- Optimized topology for game engine performance
+    - Procedural and manual modeling;
+    - Complex modifiers (Displacement, Boolean, Array);
+    - Optimized topology for game engine performance.
 - Successfully integrated the asset into Unity, with PBR textures and normal maps intact.
 
 ## Technical Skills Demonstrated
@@ -25,6 +25,19 @@ This project showcases a game-ready 3D model of an **abandoned wooden house**, d
 - Realistic Modeling: Broken windows, wood planks obstructing points of access, disfigured wooden walls/floor, garage doors and a small and simple porch.
 - Textures: Imported high-quality PBR materials (wood, metal, roofing) from Poly Haven.
 - Game Engine Compatibility: Fully exported to Unity in FBX format, preserving all details and textures.
+
+## Notes on Textures and Tiling
+
+- The house's textures are initially scaled large in Blender, providing versatility and adaptability for different game environments.
+- When importing the model into Unity, developers can easily adjust texture density using material tiling settings.
+- Recommended tiling value: 20x20 (tested myself).
+- Renders in this repository demonstrate the house with textures scaled to simulate Unity's tiling at 20x20.
+
+#### Benefits of This Approach
+
+- Increased flexibility for game developers.
+- Allows precise texture scaling per project requirements.
+- Maintains high-resolution texture details.
 
 ## Learning Outcomes
 
