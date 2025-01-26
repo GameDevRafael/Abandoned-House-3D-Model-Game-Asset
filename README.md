@@ -77,7 +77,7 @@ This asset is perfect for:
 
 Import FBX file, verify texture mapping and adjust tiling (I personally recommend 20x20)
 
-## Future Plans
+## Future Improvements that can be made:
 - Add door/plank animations.
 - Make environment assets that enhance the visual appeal.
 - Expand the interior for potential exploration mechanics.
