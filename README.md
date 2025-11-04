@@ -44,6 +44,7 @@ This asset is perfect for:
 
 *This front view provides a clear look at the primary features such as the porch, gutter, garage, broken windows and the porch.*
 
+### Front View - Close-up
 ![Close Up Front View](renders/close_up_front_view.png)
 
 *This close-up of the porch highlights the broken glass on the windows, the falling gutter above the porch and the detailed textures up close.*
