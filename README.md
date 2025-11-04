@@ -53,18 +53,8 @@ This asset is perfect for:
 
 *This view showcases the back side of the house with a view to the back side windows being covered by a wooden plank.*
 
-### Left View
-![Left View](renders/left_side_view.png)
-
-*The left side view emphasizes the big window frame with two wooden planks blocking an entrance point*
-
-### Right View
-![Right View](renders/right_side_view.png)
-
-*This view from the right side captures the existance of a second floor with a broken window on the first floor.*
-
 ### Video
-[Watch the full video render](renders/0001-0300.mp4)
+[Watch the full video render](https://www.youtube.com/watch?v=ZCVFiCs35Rg)
 
 *Watch the video to see the model up close.*
 
