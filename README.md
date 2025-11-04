@@ -48,10 +48,6 @@ This asset is perfect for:
 
 *This close-up of the porch highlights the broken glass on the windows, the falling gutter above the porch and the detailed textures up close.*
 
-### Back View
-![Back View](renders/back_view.png)
-
-*This view showcases the back side of the house with a view to the back side windows being covered by a wooden plank.*
 
 ### Video
 [Watch the full video render](https://www.youtube.com/watch?v=ZCVFiCs35Rg)
