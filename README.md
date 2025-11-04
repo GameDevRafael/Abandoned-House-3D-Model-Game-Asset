@@ -2,7 +2,7 @@
 
 ## Overview
 
-My asset showcases a **game-ready 3D model of an abandoned wooden house**, designed **100% by me** and textured entirely in Blender, then exported to Unity. The model features a rustic, weathered design with broken windows, wooden planks blocking access, a rusted gutter, a small porch, and garage doors. It has an optimized topology and old abandoned details make it a perfect fit for horror, survival, or post-apocalyptic game environments.
+My asset showcases a **game-ready 3D model of an abandoned wooden house**, designed **100% by me** and textured entirely (imported free textures) in Blender, then exported to Unity. The model features a rustic, weathered design with broken windows, wooden planks blocking access, a rusted gutter, a small porch, and garage doors. It has an optimized topology and old abandoned details make it a perfect fit for horror, survival, or post-apocalyptic game environments.
 
 ## Technical Specifications
 
