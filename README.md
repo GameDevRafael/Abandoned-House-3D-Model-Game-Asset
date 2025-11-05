@@ -39,21 +39,19 @@ This asset is perfect for:
 
 ## Render Gallery
 
-### Front View
-![Front View](renders/front_view.png)
+### Front View - Click the image to watch a flythrough on YouTube
 
-*This front view provides a clear look at the primary features such as the porch, gutter, garage, broken windows and the porch.*
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xxxxxxx">
+    <img src="renders/front_view.png" alt="Watch the trailer">
+  </a><br>
+  <em>This front view provides a clear look at the primary features such as the porch, gutter, garage, broken windows and the porch.</em>
+</p>
 
 ### Front View - Close-up
 ![Close Up Front View](renders/close_up_front_view.png)
 
 *This close-up of the porch highlights the broken glass on the windows, the falling gutter above the porch and the detailed textures up close.*
-
-
-### Video
-[Watch the full video render](https://www.youtube.com/watch?v=ZCVFiCs35Rg)
-
-*Watch the video to see the model up close.*
 
 ## Installation
 
